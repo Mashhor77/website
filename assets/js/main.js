@@ -1,7 +1,7 @@
 
 const translations = {
   ar: {
-    brandName:'مشهور الجهني', licenseBadge:'مرخص إعلاميًا', brandSub:'مصور ومخرج أفلام', footerName:'مشهور الجهني', navWork:'الأعمال', navAbout:'نبذة', navServices:'الخدمات', navVideo:'الفيديو', navContact:'تواصل',
+    brandName:'مشهور الجهني', licenseBadge:'مرخص إعلاميًا', brandSub:'مصور ومخرج أفلام', footerName:'مشهور الجهني', navWork:'الأعمال', navAbout:'نبذة', navServices:'الخدمات', navVideo:'الفيديو', navContact:'تواصل', whatsappLabel:'واتساب',
     eyebrow:'تصوير فوتوغرافي • صناعة أفلام • درون',
     heroTitle:'قصص بصرية سينمائية من الشارع، التراث، والسماء.',
     heroLead:'أحوّل اللحظات والمواقع والأفكار إلى صور وفيديوهات عالية الجودة تناسب المنصات الرقمية ومخازن الفيديو العالمية.',
@@ -24,7 +24,7 @@ const translations = {
     expBadge:'مصور ومخرج أفلام مستقل', instagramBtn:'انستقرام', youtubeBtn:'يوتيوب', backTop:'العودة للأعلى'
   },
   en: {
-    brandName:'Mashhor Aljohani', licenseBadge:'Media Licensed', brandSub:'Photographer & Filmmaker', footerName:'Mashhor Aljohani', navWork:'Work', navAbout:'About', navServices:'Services', navVideo:'Video', navContact:'Contact',
+    brandName:'Mashhor Aljohani', licenseBadge:'Media Licensed', brandSub:'Photographer & Filmmaker', footerName:'Mashhor Aljohani', navWork:'Work', navAbout:'About', navServices:'Services', navVideo:'Video', navContact:'Contact', whatsappLabel:'WhatsApp',
     eyebrow:'Photography • Filmmaking • Drone',
     heroTitle:'Cinematic visual stories from the street, heritage, and sky.',
     heroLead:'I transform moments, places, and concepts into high-quality photography and video assets built for digital platforms and global stock footage marketplaces.',
